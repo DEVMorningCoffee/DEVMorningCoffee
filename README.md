@@ -1,6 +1,8 @@
-<h3 align="center">Connect with me</h3>
+<h3 align="center">
+<img src="./resource/intro.gif">
+</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/jeffrey-abraham-b28349174/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/jeffrey-abraham-b28349174/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <!-- <a href= ""><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a> -->
   <!-- <a href= ""><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a> -->
   <!-- <a href= ""><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a> -->
@@ -18,8 +20,8 @@
     <a href="https://github.com/DEVMorningCoffee?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
     <a href="mailto:garssallaoui.bayrem@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Os-Debian-a80030"/></a>
-    <a href="https://twitter.com/kaizoku_ouh"><img src="https://img.shields.io/twitter/follow/kaizoku_ouh?style=social"/></a>
+    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Os-Apple-a80030"/></a>
+    <a href="https://twitter.com/DEVMorningCoffee"><img src="https://img.shields.io/twitter/follow/DEVMorningCoffee?style=social"/></a>
   </p>
 </p>
 <br/><br/>
