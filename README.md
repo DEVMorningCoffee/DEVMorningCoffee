@@ -2,11 +2,11 @@
 <img src="./resource/intro.gif">
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeffrey-abraham-b28349174/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/jeffrey-abraham-b28349174/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <!-- <a href= ""><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a> -->
   <!-- <a href= ""><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a> -->
   <!-- <a href= ""><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a> -->
-  <a href="https://twitter.com/DEVMorningCoffe"><img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter">
+  <a href="https://twitter.com/DEVMorningCoffe" target="_blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/>
 </p>
 
 <p>
