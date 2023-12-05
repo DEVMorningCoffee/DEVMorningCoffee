@@ -10,10 +10,6 @@
 </p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=DEVMorningCoffee&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DEVMorningCoffee" />
-  </a>
   <p>
     <img src="https://views.whatilearened.today/views/github/DEVMorningCoffee/views.svg"/>
     <a href="https://github.com/DEVMorningCoffee?tab=followers"><img src="https://img.shields.io/github/followers/DEVMorningCoffee?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
